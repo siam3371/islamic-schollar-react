@@ -9,7 +9,7 @@ const Info = () => {
         .then(res => res.json())
         .then(data =>  setPreachers(data)) 
     } ,[])
-    // handle button clicK
+    // handle button click
     const handleCart = (preacher) => {
          const newCart = [...cart, preacher]
         setCart(newCart) 
