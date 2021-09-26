@@ -17,7 +17,7 @@ const Info = () => {
     return (
         <div className="row info-container mt-3 mx-5">
             <div className="col-lg-9">
-            <div className="row">   
+            <div className="row g-4">   
         {
             preachers.map(preacher=> <Preachers 
                 preacher={preacher}
