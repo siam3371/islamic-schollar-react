@@ -1,0 +1,32 @@
+.card {
+  background-color: #434343 !important;
+}
+.preacher-img {
+  width: 140px !important;
+  margin: 5px auto auto;
+}
+.info-text {
+  color: rgb(118, 185, 255);
+}
+.social-link-text:hover {
+  text-decoration: underline;
+}
+.social-link-text {
+  color: rgb(51, 125, 255);
+  font-size: 1rem;
+  cursor: pointer;
+}
+/* button style  start*/
+.regular-btn {
+  background-color: darkgrey;
+  width: 11rem;
+  height: 2.4rem;
+  background-color: rgb(128 82 54);
+  border-color: rgb(134 79 48);
+  color: white;
+}
+.regular-btn {
+  margin-left: 3.7rem;
+  border: 1px solid darksalmon;
+}
+/* button style end */
