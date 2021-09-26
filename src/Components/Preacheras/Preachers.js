@@ -12,6 +12,7 @@ import './Preachers.css'
                 <p className="info-text"><span className="info">Age</span> : {age}</p>
                 <p className="info-text"><span className="info">Place Of Birth</span> : {placeOfBirth}</p> 
                 <p className="info-text" >Nationality:{nationality}</p> 
+                {/* using font awsome icon */}
                 <p className="info-text" >Facebook Followers : {facebookFollowers}</p>
                 <p className="text-center social-link-text"> <i class="fab fa-facebook"></i> Join With Facebook</p>
                 <p className="text-center social-link-text "> <i class="fab fa-youtube"></i>  Join With Youtube</p>
